@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "3bb9250a2822925d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa3e23efa9894025",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "4bc35fe169badc9c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "буфер.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c42a6831fd03c599",
+    "type": "split",
+    "children": [
+      {
+        "id": "99a00e9321f3e960",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89134c6a86ff0952",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b22ded958d5c50ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "коммуникационное дерево текущей реальности",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359
+  },
+  "right": {
+    "id": "e354f34fd7f84b96",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ac187df202f545c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5276e10ca077270",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "буфер.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cafe91beb13a5b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "буфер.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67ab73fe678613d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed9a6b8238f82b56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "буфер.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4bc35fe169badc9c",
+  "lastOpenFiles": [
+    "буфер.md",
+    "buy-in.md",
+    "buy-in process.md",
+    "building (S&T tree).md",
+    "build.md",
+    "buffering.md",
+    "buffer target.md",
+    "capacity buffer.md",
+    "процесс одобрения.md",
+    "одобрение.md"
+  ]
+}
