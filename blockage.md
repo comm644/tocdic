@@ -17,6 +17,3 @@ Usage: Blocking, starvation, and breakage of the constraint are of particular im
 
 
 See:[[breakage]], [[space buffer]], [[starvation]].
-
-
-

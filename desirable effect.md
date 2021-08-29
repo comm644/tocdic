@@ -16,11 +16,4 @@ Usage: A DE is often the opposite of an undesirable effect (UDE). When appearing
 
 
 
-See:[[current reality tree]], [[future reality tree]], [[undesirable effect]].
-
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-44_1.png"/>
-44 
-
-
-
+See:[[current reality tree]], [[future reality tree]], [[undesirable effect.   <hr/>  <img src="./tocico_dictionary_2nd_editio-44_1.png"/> 44]].

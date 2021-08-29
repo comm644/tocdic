@@ -20,6 +20,3 @@ Syn.:[[strategic resource buffer]], [[pacing resource buffer]].
 
 
 See:[[constraint buffer]], [[drum]].
-
-
-

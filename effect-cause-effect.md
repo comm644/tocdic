@@ -18,6 +18,3 @@ Illustration:  By showing that the second effect exists, the existence of the pr
 
 
 See:[[cause-effect]], [[entity]].
-
-
-

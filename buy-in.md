@@ -13,11 +13,4 @@
 
 
 
-See:[[change analogy]], [[layers of resistance]], [[minus-minus buy-in process]], [[plus-plus buy-in process]].
-
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-20_1.png"/>
-20 
-
-
-
+See:[[change analogy]], [[layers of resistance]], [[minus-minus buy-in process]], [[plus-plus buy-in process.   <hr/>  <img src="./tocico_dictionary_2nd_editio-20_1.png"/> 20]].

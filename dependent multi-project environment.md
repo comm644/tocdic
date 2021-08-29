@@ -14,6 +14,3 @@
 
 
 See:[[independent multi-project environment]].
-
-
-

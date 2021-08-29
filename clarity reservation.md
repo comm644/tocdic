@@ -28,11 +28,4 @@ Illustration 1: Consider the entity below: 100  XYZ is a new product development
 
 
 
-See:[[categories of legitimate reservation]], [[long arrow]], [[scrutiny]].
-
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-27_1.png"/>
-27 
-
-
-
+See:[[categories of legitimate reservation]], [[long arrow]], [[scrutiny.   <hr/>  <img src="./tocico_dictionary_2nd_editio-27_1.png"/> 27]].

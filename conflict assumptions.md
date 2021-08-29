@@ -18,6 +18,3 @@ Usage: Addressing the conflict assumptions directly often breaks the cloud more 
 
 
 See:[[evaporating cloud]].
-
-
-

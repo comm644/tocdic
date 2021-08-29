@@ -25,7 +25,3 @@ term, respectively.
 
 
 See:[[critical chain project management]], [[protected critical chain]].
-
-
-
-

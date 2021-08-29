@@ -18,6 +18,3 @@ subcontracting) to react to sudden increases in total demand.
 
 
 See:[[buffer]], [[critical chain project management]], [[drum]], [[drum resource]], [[make to availability]].
-
-
-

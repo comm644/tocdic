@@ -19,6 +19,3 @@ Illustration: The phrase, 20 Car battery, is not a valid entity.  However, 20 Th
 
 
 See:[[cause]], [[effect]], [[injection]], [[intermediate objective]], [[obstacle]], [[thinking processes]].
-
-
-

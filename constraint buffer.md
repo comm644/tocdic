@@ -22,6 +22,3 @@ Illustration: A constraint buffer for a make-to-order production situation is sh
 
 
 See:[[buffer]], [[buffer management]], [[shipping buffer]].
-
-
-

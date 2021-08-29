@@ -15,6 +15,3 @@ Usage: In the cost-world paradigm, global impact is believed to be the sum of al
 
 
 See:[[additive rule]], [[global optimum measure]], [[local optimum measure]], [[throughput-world paradigm]].
-
-
-

@@ -19,6 +19,3 @@ Usage: Causality is differentiated from correlation (the degree to which two or 
 
 
 See:[[categories of legitimate reservation]], [[entity]], [[scrutiny]], [[thinking processes]].
-
-
-

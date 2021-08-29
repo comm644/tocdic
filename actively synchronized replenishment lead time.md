@@ -15,6 +15,3 @@ Usage: Creating a stock buffer for a component in a bill of material shortens th
 
 
 See:[[actively synchronized replenishment]].
-
-
-

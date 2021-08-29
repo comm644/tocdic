@@ -25,7 +25,3 @@ Effect Y.  For example, If 20 My vegetable garden gets ample water, and 30 My ga
 
 
 See:[[effect]], [[entity]], [[logic]], [[diagram]], [[logical 'and' connector]].
-
-
-
-

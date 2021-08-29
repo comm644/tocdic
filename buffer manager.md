@@ -19,6 +19,3 @@ recording the causes of buffer penetration into the yellow, red and black zones.
 
 
 See:[[buffer management]].
-
-
-

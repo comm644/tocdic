@@ -15,6 +15,3 @@ Usage: 1. In a make-to-order environment using drum-buffer-rope, the buffer stat
 
 
 See:[[buffer status]].
-
-
-

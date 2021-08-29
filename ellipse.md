@@ -17,6 +17,3 @@ Illustration: In the following logic twig, both indicated causes, 10 and 20, mus
 
 
 See:[[logic twig]], [[logical 'and' connector]], [[sufficiency-based logic]], [[thinking processes]].
-
-
-

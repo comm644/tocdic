@@ -20,7 +20,3 @@ the fact that a large "pot-of-gold" can be a significant motivator for many peop
 
 
 See:[[buy-in process]], [[minus-minus buy-in process]], [[plus-plus buy-in process]].
-
-
-
-

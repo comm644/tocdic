@@ -17,6 +17,3 @@ Example: Suppose you had the two systems portrayed as System A and System B.  Wh
 
 
 See:[[Archimedes lever point]], [[leverage point]].
-
-
-

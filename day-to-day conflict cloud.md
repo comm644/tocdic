@@ -15,7 +15,3 @@ Usage: The day-to-day conflict cloud is the easiest cloud to construct and hence
 
 
 See:[[chronic conflict]].
-
-
-
-

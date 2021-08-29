@@ -19,6 +19,3 @@ Perspective: The chain analogy is useful because strengthening most links in a c
 
 
 See:[[constraint]].
-
-
-

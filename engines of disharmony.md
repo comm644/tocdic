@@ -22,6 +22,3 @@ resource allocation.
 
 
 See:[[engines of harmony]].
-
-
-

@@ -15,6 +15,3 @@ Usage: Divergent points are common in a V-Plant and are usually used as control 
 
 
 See:[[control point]], [[V-plant]].
-
-
-

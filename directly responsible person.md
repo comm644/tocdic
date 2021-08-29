@@ -16,6 +16,3 @@ Usage: Understanding the roles of individuals in the organization, and who the D
 
 
 See:[[intimately involved person]], [[outside person]].
-
-
-

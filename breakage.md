@@ -17,6 +17,3 @@ Usage: Non-constraints have excess capacity so breakage at a non-constraint is n
 
 
 See:[[blockage]], [[constraint buffer]], [[space buffer]], [[starvation]], [[time buffer]].
-
-
-

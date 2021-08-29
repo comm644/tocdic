@@ -20,6 +20,3 @@ Syn.:[[buffer level]], [[buffer target]].
 
 
 See:[[replenishment lead time]].
-
-
-

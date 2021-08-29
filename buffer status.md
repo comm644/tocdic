@@ -31,6 +31,3 @@ a single project environment, the status of the project is plotted periodically 
 
 
 See:[[fever chart]].
-
-
-

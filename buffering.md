@@ -15,6 +15,3 @@ Perspective: In lean buffering in the form of kanbans is placed between each pai
 
 
 See:[[buffer max]].
-
-
-

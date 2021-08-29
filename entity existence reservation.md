@@ -17,6 +17,3 @@ Usage: The scrutinizer of a thinking processes diagram may ask the question: "Do
 
 
 See:[[categories of legitimate reservation]], [[entity]], [[scrutiny]], [[thinking processes]].
-
-
-

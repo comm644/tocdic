@@ -22,6 +22,3 @@ products and generally focus on local optima throughout the supply chain.  In co
 
 
 See:[[actively synchronized replenishment]].
-
-
-

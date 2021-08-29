@@ -27,6 +27,3 @@ and control system.
 
 
 See:[[current reality tree]].
-
-
-

@@ -14,6 +14,3 @@
 
 
 See:[[drum-buffer-rope for services]].
-
-
-

@@ -17,6 +17,3 @@ item is made early it collects inventory-dollar-days until sold.
 
 
 See:[[efficiency]], [[inventory-dollar-days]], [[throughput-dollar-days]].
-
-
-

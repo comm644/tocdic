@@ -49,6 +49,3 @@ in-transit inventory
 
 
 See:[[buffer management]].
-
-
-

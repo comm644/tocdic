@@ -16,6 +16,3 @@ Usage:  The consumer goods strategy and tactics tree is for use in a business-to
 
 
 See:[[transformation strategy and tactics tree]].
-
-
-

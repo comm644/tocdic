@@ -14,6 +14,3 @@
 
 
 See:[[theory of constraints]].
-
-
-

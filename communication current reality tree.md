@@ -16,6 +16,3 @@ Usage:  The CCRT connects the core conflict cloud at the base of the logic tree 
 
 
 See:[[buy-in]], [[core conflict cloud]], [[current reality tree]], [[undesirable effect]].
-
-
-

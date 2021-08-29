@@ -17,7 +17,3 @@ Usage: For this type of reservation, the scrutinizer must provide the missing su
 
 
 See:[[categories of legitimate reservation]], [[effect]], [[entity]], [[logic diagram]].
-
-
-
-

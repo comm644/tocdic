@@ -23,7 +23,3 @@ Syn.:[[tautology]].
 
 
 See:[[categories of legitimate reservation]], [[effect]], [[entity]], [[logical 'and' connector]], [[logic diagram]].
-
-
-
-

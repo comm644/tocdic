@@ -16,6 +16,3 @@ Examples: The manufacture of helicopters, kitchen cabinets, and footwear.
 
 
 See:[[VATI analysis]], [[convergent point]].
-
-
-

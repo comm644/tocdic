@@ -15,6 +15,3 @@ Usage: Control points include gating operations, convergent points, divergent po
 
 
 See:[[constraint]], [[convergent point]], [[divergent point]], [[drum schedule]], [[shipping schedule]].
-
-
-

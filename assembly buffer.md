@@ -15,6 +15,3 @@ Usage: The assembly buffer is not as commonly used as the constraint and shippin
 
 
 See:[[buffer]], [[constraint buffer]], [[shipping buffer]], [[simplified drum-buffer-rope]], [[time buffer]].
-
-
-

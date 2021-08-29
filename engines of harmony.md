@@ -23,6 +23,3 @@ contributions will be recognized.
 
 
 See:[[engines of disharmony]].
-
-
-
