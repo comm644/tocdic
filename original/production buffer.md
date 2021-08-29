@@ -19,7 +19,3 @@ Syn.:[[reliable production lead time]].
 
 
 See:[[buffer management]], [[make-to-availability]].
-
-
-
-

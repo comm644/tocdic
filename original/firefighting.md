@@ -8,6 +8,3 @@ and therefore loses focus.
 
 
 See:[[alignment of responsibility and authority]].
-
-
-

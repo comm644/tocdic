@@ -16,6 +16,3 @@ Illustration:  The first diagram below shows TOC production lead time and the se
 
 
 See:[[replenishment lead time]].
-
-
-

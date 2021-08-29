@@ -9,7 +9,3 @@ Usage: Once the drum resource has completed the last task on one project, anothe
 
 
 See:[[project pacing]], [[virtual drum]].
-
-
-
-

@@ -12,6 +12,3 @@ Syn.:[[capacity-constraint resource]].
 
 
 See:[[constraint]], [[throughput]].
-
-
-

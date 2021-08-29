@@ -9,6 +9,3 @@ Caution: Some tasks have a static or fixed time and cannot be reduced significan
 
 
 See:[[50% task time estimate]], [[touch time]].
-
-
-

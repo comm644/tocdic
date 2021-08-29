@@ -6,6 +6,3 @@
 
 
 See:[[black hole return on investment]], [[star return on investment]].
-
-
-

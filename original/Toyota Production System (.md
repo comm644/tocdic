@@ -9,6 +9,3 @@ Perspective: Many of the Toyota Production System concepts are based on Henry Fo
 
 
 See:[[lean manufacturing management philosophy]].
-
-
-

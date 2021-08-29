@@ -6,6 +6,3 @@ One of three processes of ongoing improvement in TOC. One of three processes of 
 
 
 See:[[process of ongoing improvement]].
-
-
-

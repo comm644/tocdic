@@ -8,6 +8,3 @@ be the result of changes in inventory levels.
 
 
 See:[[inventory profit]], [[operating expense]], [[throughput]], [[throughput accounting]].
-
-
-

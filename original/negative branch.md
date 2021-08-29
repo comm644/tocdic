@@ -5,6 +5,3 @@
 
 
 See:[[negative branch reservation process]].
-
-
-

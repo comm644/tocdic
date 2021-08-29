@@ -7,6 +7,3 @@ eliminated to eliminate the effect.
 
 
 See:[[logical 'and' connector]], [[conceptual 'and' connector]], [[magnitudinal 'and' connector]].
-
-
-

@@ -14,6 +14,3 @@ company a decision competitive edge.
 
 
 See:[[decisive competitive edge]], [[strategy and tactics tree]].
-
-
-

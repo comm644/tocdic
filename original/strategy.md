@@ -5,6 +5,3 @@
 
 
 See:[[strategy and tactics tree]], [[tactic]].
-
-
-

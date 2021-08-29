@@ -9,6 +9,3 @@ Illustration:  A core conflict in operations, which is depicted here, exists bec
 
 
 See:[[conflict clouds]], [[current reality tree]], [[prerequisite]], [[three-cloud approach]], [[undesirable effect]].
-
-
-

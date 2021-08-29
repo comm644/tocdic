@@ -8,6 +8,3 @@ Usage:  IOs usually appear as entities on IO maps, prerequisite trees and transi
 
 
 See:[[entity]], [[IO map]], [[objective]], [[obstacle]], [[prerequisite tree]], [[transition tree]].
-
-
-

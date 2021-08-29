@@ -11,6 +11,3 @@ include assumptions about the governing laws of business, economics, human behav
 
 
 See:[[necessary assumption]], [[parallel assumption]], [[strategy]], [[strategy and tactic node]], [[tactic]].
-
-
-

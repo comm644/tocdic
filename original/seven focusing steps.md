@@ -6,6 +6,3 @@ Usage: Seven focusing steps are appropriate for not-for-profit and government or
 
 
 See:[[five focusing steps]], [[goal]], [[process of ongoing improvement]], [[throughput]].
-
-
-

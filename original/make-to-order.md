@@ -15,6 +15,3 @@ Illustration 1:  MTO with an internal constraint:
 
 
 See:[[make-to-availability]], [[make-to-order injections]], [[make-to-stock]].
-
-
-

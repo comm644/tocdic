@@ -6,11 +6,8 @@ A systemic conflict is identified as part of the dual cloud process and is contr
 
 Syn.:[[causal conflict cloud]], [[planning cloud]].
 
-Syn.:[[causal conflict cloud]], [[planning cloud]].
+Syn.:[[causal conflict cloud]], [[planning cloud]].T
 
 
 
-See:[[symptomatic conflict]], [[dual cloud process]].
-T Abbreviation for throughput. 
-
-
+See:[[symptomatic conflict]], [[dual cloud process.  Abbreviation for throughput]].

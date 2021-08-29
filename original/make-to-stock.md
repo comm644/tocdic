@@ -7,6 +7,3 @@ demand and modified by lot sizing to reduce inventory costs (ordering, carrying 
 
 
 See:[[make-to-availability]], [[make-to-order]].
-
-
-

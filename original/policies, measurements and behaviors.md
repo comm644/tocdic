@@ -10,6 +10,3 @@ Example:  Based on the assumption that increased local efficiency is desirable, 
 
 
 See:[[cause-effect]], [[current reality tree]], [[entity]], [[undesirable effect]].
-
-
-

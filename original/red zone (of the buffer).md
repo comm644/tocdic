@@ -13,6 +13,3 @@ Syn.:[[region III]].
 
 
 See:[[buffer]], [[buffer management]], [[green zone]], [[hole]], [[yellow zone]].
-
-
-

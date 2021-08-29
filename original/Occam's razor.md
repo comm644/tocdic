@@ -5,6 +5,3 @@
 
 
 See:[[fundamental assumptions (of TOC)]].
-
-
-

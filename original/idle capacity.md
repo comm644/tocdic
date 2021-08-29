@@ -6,7 +6,3 @@ Usage: In the TOC production and multi-project management solutions, protective 
 
 
 See:[[capacity]], [[excess capacity]], [[productive capacity]], [[protective capacity]].
-
-
-
-

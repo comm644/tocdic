@@ -7,6 +7,3 @@
 
 
 See:[[transformation strategy and tactics tree]].
-
-
-

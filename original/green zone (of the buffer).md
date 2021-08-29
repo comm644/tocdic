@@ -10,6 +10,3 @@ Syn.:[[region I]].
 
 
 See:[[buffer]], [[buffer management]], [[hole]], [[red zone]], [[yellow zone]].
-
-
-

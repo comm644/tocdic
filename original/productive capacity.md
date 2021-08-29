@@ -10,6 +10,3 @@ Syn.:[[sprint capacity]].
 
 
 See:[[excess capacity]], [[idle capacity]], [[protective capacity]], [[waste]].
-
-
-

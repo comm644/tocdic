@@ -8,6 +8,3 @@ Usage: TDD considers the monetary value of the things a link is committed to del
 
 
 See:[[buffer management]], [[inventory-dollar-days]], [[throughput-value-days]].
-
-
-

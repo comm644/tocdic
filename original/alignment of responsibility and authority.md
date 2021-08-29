@@ -15,7 +15,3 @@ Illustration:  In this story line, the company has experienced problems in the p
 
 
 See:[[assumption]], [[evaporating cloud]], [[injection]], [[lieutenant's cloud]].
-
-
-
-

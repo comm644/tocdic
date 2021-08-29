@@ -13,6 +13,3 @@ The IO map is built by people who have intuition about the area in which the sol
 
 
 See:[[intermediate objective]], [[prerequisite tree]].
-
-
-

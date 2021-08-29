@@ -20,6 +20,3 @@ Syn.:[[project progress]].
 
 
 See:[[buffer burn rate]], [[project buffer consumption rate]], [[project management measures]].
-
-
-

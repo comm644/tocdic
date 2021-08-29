@@ -22,6 +22,3 @@ Illustration:  Components of replenishment lead time:
 
 
 See:[[order lead time]].
-
-
-

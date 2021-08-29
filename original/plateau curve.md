@@ -11,7 +11,3 @@ Syn.:[[good enough curve]].
 
 
 See:[[u-curve]].
-
-
-
-

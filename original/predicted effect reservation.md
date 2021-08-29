@@ -13,7 +13,3 @@ effect must be present.  If the predicted effect is present it validates the exi
 
 
 See:[[categories of legitimate reservation]], [[cause-effect]], [[entity]], [[scrutiny]].
-
-
-
-

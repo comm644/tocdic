@@ -5,6 +5,3 @@
 
 
 See:[[buffer]], [[buffer management]], [[green zone]], [[hole]], [[red zone]], [[white zone]], [[yellow zone]].
-
-
-

@@ -7,6 +7,3 @@ Example: Suppose a company produces only one product, and it sells for $100 and 
 
 
 See:[[inventory]], [[throughput]], [[totally variable costs]].
-
-
-

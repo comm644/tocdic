@@ -33,7 +33,3 @@ buffer target - (current on-hand inventory + in-transit inventory)
 
 
 See:[[buffer status]], [[buffer target]], [[replenishment lead time]].
-
-
-
-

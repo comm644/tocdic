@@ -6,7 +6,3 @@ Usage: A wet tree has long arrows (i.e., gaps in logic),  errors in logic, or bo
 
 
 See:[[categories of legitimate reservation]], [[dry tree]], [[long arrow]], [[scrutiny]], [[thinking processes]].
-
-
-
-

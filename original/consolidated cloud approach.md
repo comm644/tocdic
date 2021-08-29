@@ -8,6 +8,3 @@ careful selection of diverse UDE helps ensure the core problem is identified cor
 
 
 See:[[core conflict cloud]], [[generic cloud]], [[three-cloud approach]], [[UDE cloud]].
-
-
-

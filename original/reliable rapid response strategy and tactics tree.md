@@ -6,6 +6,3 @@ Usage: The reliable rapid response strategy and tactics tree is for use in a bus
 
 
 See:[[transformation strategy and tactics tree]].
-
-
-

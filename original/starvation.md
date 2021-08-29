@@ -11,6 +11,3 @@ constraint causes throughput loss.  The constraint is protected against starvati
 
 
 See:[[blockage]], [[breakage]].
-
-
-

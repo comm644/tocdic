@@ -6,6 +6,3 @@ Usage: In many cases, setting the transfer batch size less than the process batc
 
 
 See:[[process batch]], [[production lead time]].
-
-
-

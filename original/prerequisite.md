@@ -14,6 +14,3 @@ Syn.:[[want]].
 
 
 See:[[evaporating cloud]], [[requirement]].
-
-
-

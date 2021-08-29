@@ -8,6 +8,3 @@ and utilization.
 
 
 See:[[operating expense]].
-
-
-

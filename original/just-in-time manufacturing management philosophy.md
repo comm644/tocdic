@@ -7,6 +7,3 @@ on the elimination of waste, simplification of operations and the improvement of
 
 
 See:[[lean manufacturing management philosophy]], [[Toyota Production System]].
-
-
-

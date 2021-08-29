@@ -6,6 +6,3 @@ Usage: Actions that can create a peak in demand include promotions, announcement
 
 
 See:[[pull seasonality]].
-
-
-

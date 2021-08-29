@@ -5,6 +5,3 @@
 
 
 See:[[tactical gating]].
-
-
-

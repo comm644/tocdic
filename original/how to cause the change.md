@@ -9,6 +9,3 @@ Usage: Typically, the prerequisite tree and the transition tree are the thinking
 
 
 See:[[change question sequence]], [[prerequisite tree]], [[transition tree]], [[thinking processes]].
-
-
-

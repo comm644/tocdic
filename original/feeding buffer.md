@@ -10,6 +10,3 @@ Syn.:[[feeder buffer]].
 
 
 See:[[buffer]], [[buffer management]], [[convergent point]], [[critical chain]].
-
-
-

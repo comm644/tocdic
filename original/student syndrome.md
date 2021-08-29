@@ -6,6 +6,3 @@ Usage: The name is derived from the fact that most students tend to behave in th
 
 
 See:[[critical chain project management]], [[multitasking]], [[Parkinson's Law]].
-
-
-

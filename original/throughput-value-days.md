@@ -4,11 +4,4 @@
 
 
 
-See:[[throughput-dollar-days]].
-
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-123_1.png"/>
-123 
-
-
-
+See:[[throughput-dollar-days.   <hr/>  <img src="./tocico_dictionary_2nd_editio-123_1.png"/> 123]].

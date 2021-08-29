@@ -14,6 +14,3 @@ Perspective 2:  In traditional project management buffers are included in each t
 
 
 See:[[capacity buffer]], [[control point]], [[project buffer]], [[stock buffer]], [[time buffer]].
-
-
-

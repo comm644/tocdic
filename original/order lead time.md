@@ -6,6 +6,3 @@ Usage: During the order lead time the system continues to consume from the stock
 
 
 See:[[replenishment lead time]].
-
-
-

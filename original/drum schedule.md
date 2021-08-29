@@ -8,7 +8,3 @@ determines the planned start and estimated completion dates of projects using th
 
 
 See:[[critical chain project management]], [[drum-buffer-rope]], [[drum resource]].
-
-
-
-

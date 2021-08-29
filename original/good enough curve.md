@@ -16,6 +16,3 @@ Syn.:[[plateau curve]].
 
 
 See:[[u-curve]].
-
-
-

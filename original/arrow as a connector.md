@@ -16,7 +16,3 @@ Illustration 2: The necessity-based logic diagram on the right below is verbaliz
 
 
 See:[[entity]], [[necessity-based logic]], [[sufficiency-based logic]].
-
-
-
-

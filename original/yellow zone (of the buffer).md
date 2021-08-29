@@ -10,7 +10,3 @@ Syn.:[[region II]].
 
 
 See:[[buffer]], [[buffer management]], [[green zone]], [[hole]], [[red zone]].
-
-
-
-

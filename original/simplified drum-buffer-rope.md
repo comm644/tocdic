@@ -6,6 +6,3 @@ Usage: S-DBR can be used in the vast majority of shop floors with the one except
 
 
 See:[[capacity-constrained resource]], [[drum]], [[planned load]], [[production buffer]].
-
-
-

@@ -7,6 +7,3 @@ in the white zone.
 
 
 See:[[buffer]], [[buffer management]], [[green zone]], [[hole]], [[red zone]], [[yellow zone]].
-
-
-

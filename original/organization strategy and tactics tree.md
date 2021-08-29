@@ -6,8 +6,3 @@ Usage: The organization strategy and tactics tree differs from a transformation 
 
 
 See:[[engines of disharmony]].
-
- 
-
-
-

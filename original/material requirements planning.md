@@ -7,7 +7,3 @@
 
 
 See:[[traditional manufacturing philosophy]].
-
-
-
-

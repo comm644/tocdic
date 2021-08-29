@@ -8,6 +8,3 @@ Illustration: A manager has been told by her supervisor to fire a subordinate.  
 
 
 See:[[evaporating cloud]].
-
-
-

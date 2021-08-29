@@ -9,6 +9,3 @@ negative branch reservation process.
 
 
 See:[[cloud]], [[future reality tree]], [[negative branch reservation process]], [[sufficiency-based logic]].
-
-
-

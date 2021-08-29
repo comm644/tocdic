@@ -13,6 +13,3 @@ Illustration: In the diagram below, every resource in the production process has
 
 
 See:[[excess capacity]], [[idle capacity]], [[productive capacity]], [[protective capacity]], [[throughput]].
-
-
-

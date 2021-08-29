@@ -9,6 +9,3 @@ Perspective: A flying pig injection is so named because it appears to be so diff
 
 
 See:[[breakthrough injection]], [[injection]], [[primary injection]].
-
-
-

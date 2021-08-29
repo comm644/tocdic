@@ -5,6 +5,3 @@
 
 
 See:[[investment]], [[operating expense]], [[throughput]].
-
-
-

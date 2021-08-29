@@ -7,6 +7,3 @@ Usage: By convention, when creating a logic diagram, an entry point entity that 
 
 
 See:[[entity]], [[fact of life]], [[core driver]], [[injection]], [[sufficiency-based logic]].
-
-
-

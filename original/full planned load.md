@@ -6,6 +6,3 @@ Usage: The full planned load differs from the planned load in a make-to-availabi
 
 
 See:[[current planned load date]], [[load control]], [[planned load]], [[prerelease wait time]].
-
-
-

@@ -8,6 +8,3 @@ Usage: Parkinson's Law is widely considered to apply to project tasks.  Critical
 
 
 See:[[student syndrome]].
-
-
-

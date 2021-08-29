@@ -10,11 +10,4 @@ Syn.:[[integration risk]].
 
 
 
-See:[[integration point]].
-
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-81_1.jpg"/>
-81 
-
-
-
+See:[[integration point.   <hr/>  <img src="./tocico_dictionary_2nd_editio-81_1.jpg"/> 81]].

@@ -5,6 +5,3 @@
 
 
 See:[[black hole return on investment]], [[return on investment(sku)]], [[star return on investment]].
-
-
-

@@ -7,6 +7,3 @@ Usage: A single plant may be a combination of more than one type.
 
 
 See:[[A-plant]], [[I-plant]], [[T-plant]], [[V-plant]].
-
-
-

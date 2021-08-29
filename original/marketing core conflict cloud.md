@@ -9,6 +9,3 @@ One TOC solution is based upon the recognition that requirement C is incorrect a
 
 
 See:[[core conflict cloud]].
-
-
-

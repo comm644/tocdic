@@ -6,7 +6,3 @@ Usage: The co-existence of these two factors is what necessitates the elements o
 
 
 See:[[critical chain project management]], [[drum-buffer-rope]].
-
-
-
-

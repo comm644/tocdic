@@ -6,6 +6,3 @@ Usage: IDD accounts for the time from when inventory is first put in stock until
 
 
 See:[[inventory-value-days]], [[throughput-dollar-days]].
-
-
-

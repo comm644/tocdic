@@ -6,6 +6,3 @@ Example: Many manufacturers have a policy of building parts in an "economic orde
 
 
 See:[[constraint]], [[exploit]], [[subordination]].
-
-
-

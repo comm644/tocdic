@@ -11,6 +11,3 @@ Syn.:[[constraints accounting]].
 
 
 See:[[constraint]], [[global measures]], [[investment]], [[operating expense]], [[throughput]].
-
-
-
