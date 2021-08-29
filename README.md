@@ -1,2 +1,0 @@
-# tocdic
-TOC dictionary. Automatic

@@ -6,6 +6,7 @@
       {
         "id": "aa3e23efa9894025",
         "type": "leaf",
+        "dimension": 65.13377926421404,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -14,8 +15,9 @@
         }
       },
       {
-        "id": "4bc35fe169badc9c",
+        "id": "e69d5be01397b8ea",
         "type": "leaf",
+        "dimension": 34.86622073578595,
         "state": {
           "type": "markdown",
           "state": {
@@ -49,11 +51,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "коммуникационное дерево текущей реальности",
+                "query": "tag:#ббк",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
-                "extraContext": false,
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -129,17 +131,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4bc35fe169badc9c",
+  "active": "e69d5be01397b8ea",
   "lastOpenFiles": [
     "буфер.md",
-    "buy-in.md",
-    "buy-in process.md",
-    "building (S&T tree).md",
-    "build.md",
-    "buffering.md",
-    "buffer target.md",
-    "capacity buffer.md",
-    "процесс одобрения.md",
-    "одобрение.md"
+    "точка схождения.md",
+    "решение для распределения или пополнения.md",
+    "distribution or replenishment solution.md",
+    "сбалансированный завод.md",
+    "дерево текущей реальности.md",
+    "управление буфером.md",
+    "буфер ограничения.md",
+    "барабан-буфер-канат.md",
+    "барабан.md"
   ]
 }
