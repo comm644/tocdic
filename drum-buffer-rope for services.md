@@ -9,7 +9,9 @@
 
 #tocico
 
-<b>drum-buffer-rope for services</b> - (DBRS)  The application of drum-buffer-rope to services, particularly professional, scientific and technical services, in contrast to the traditional TOC application of DBR for the production of goods (DBRG). the production of goods (DBRG). 
+## drum-buffer-rope for services
+
+<b>drum-buffer-rope for services</b> - (DBRS)  The application of drum-buffer-rope to services, particularly professional, scientific and technical services, in contrast to the traditional TOC application of DBR for the production of goods (DBRG). 
 
 
 

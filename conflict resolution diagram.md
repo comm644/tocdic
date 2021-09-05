@@ -9,6 +9,8 @@
 
 #tocico
 
+## conflict resolution diagram
+
 <b>conflict resolution diagram</b> - (CRD)
 
 

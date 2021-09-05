@@ -9,7 +9,9 @@
 
 #tocico
 
-<b>buy-in</b> -  - A rigorous process of leading a group to full consensus on a solution.  The process is designed to overcome the 'layers of resistance'. The steps are the following: 1. Agree on the problem. 2. Agree on the direction of the solution. 3. Agree that the solution solves the problem. 4. Agree that the solution will not lead to any significant negative effects. 5. Agree on the way to overcome any obstacles that might block or distort implementation of the solution. 6. Overcome unverbalized fears. 6. Overcome unverbalized fears. 
+## buy-in
+
+<b>buy-in</b> -  - A rigorous process of leading a group to full consensus on a solution.  The process is designed to overcome the 'layers of resistance'. The steps are the following: 1. Agree on the problem. 2. Agree on the direction of the solution. 3. Agree that the solution solves the problem. 4. Agree that the solution will not lead to any significant negative effects. 5. Agree on the way to overcome any obstacles that might block or distort implementation of the solution. 6. Overcome unverbalized fears. 
 
 
 

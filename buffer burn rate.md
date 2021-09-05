@@ -9,6 +9,8 @@
 
 #tocico
 
+## buffer burn rate
+
 <b>buffer burn rate</b> - - A measure of the overall rate at which the project buffer is being consumed for the project to date.  The second measure of a set of three measures in buffer management for single- and multi-project critical chain project management.  
 buffer burn rate  =
  percentage of project buffer consumed 
@@ -28,6 +30,8 @@ buffer burn rate  =
 
 
   percentage of critical chain completed   
+
+
 Usage: The buffer burn rate is used to answer the questions: Is overall progress on the project satisfactory? What is my current project status?  A buffer burn rate of 1.0 or less is good.  The first measure of project status is percent of the critical chain completed; the third measure is the project buffer consumption rate. 
 <hr/>
 <img src="./tocico_dictionary_2nd_editio-12_1.png"/>

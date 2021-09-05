@@ -13,6 +13,8 @@
 
 #tocico
 
+## CCR
+
 <b>CCR</b> -  - Abbreviation for capacity-constrained resource. 
 
 

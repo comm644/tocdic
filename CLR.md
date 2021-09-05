@@ -13,6 +13,8 @@
 
 #tocico
 
+## CLR
+
 <b>CLR</b> - Abbreviation for categories of legitimate reservation.
 
 

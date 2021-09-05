@@ -9,7 +9,11 @@
 
 #tocico
 
+## elephant order
+
 <b>elephant order</b> -  - A large manufacturing order placed to restructure a buffer to a new higher buffer target.
+
+
 
 Usage: Elephant orders are usually triggered when a buffer has penetrated the red region three consecutive times and the buffer target or limit has been increased by one third. The order is the 
 <hr/>
@@ -43,7 +47,6 @@ in-transit inventory
 
   =
  340 units. 
- 
  
 
 

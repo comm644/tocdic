@@ -9,10 +9,9 @@
 
 #tocico
 
+## buffer max
+
 <b>buffer max</b> - 
-
-
-Syn.:[[buffer level]], [[buffer target]].
 
 
 Syn.:[[buffer level]], [[buffer target]].

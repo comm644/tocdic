@@ -9,6 +9,8 @@
 
 #tocico
 
+## current reality branch
+
 <b>current reality branch</b> -  (CRB) - A segment of a current reality tree providing the causal relationship  from the core problem or a lower entity or cause to one or a few UDEs.   
 40 Operating 
 expense is high. 
@@ -21,7 +23,6 @@ and products to save setups.
 10 XYZ uses a push planning 
 and control system.
   
- 
  
 
 

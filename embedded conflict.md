@@ -9,7 +9,11 @@
 
 #tocico
 
+## embedded conflict
+
 <b>embedded conflict</b> -  - A situation in which one of the requirements of an evaporating cloud can be viewed as the objective of a second cloud at a lower level of the system, with the same opposing actions D and D' in conflict at the lower level. 
+
+
 Illustration:          
 <hr/>
 <img src="./tocico_dictionary_2nd_editio-50_1.png"/>

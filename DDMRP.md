@@ -13,6 +13,8 @@
 
 #tocico
 
+## DDMRP
+
 <b>DDMRP</b> - Abbreviation for demand driven material requirements planning.   
 
 

@@ -9,12 +9,14 @@
 
 #tocico
 
+## distribution requirements planning
+
 <b>distribution requirements planning</b> - 
   
 
 Syn.:[[traditional supply chain management philosophy]].
 <hr/>
-45 45 
+45 
 
 
 
