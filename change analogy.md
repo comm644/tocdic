@@ -17,8 +17,8 @@
 
 
 Usage: The main idea of the plus-plus buy-in process is that the potential benefit (the pot-of-gold) of the change is much, much bigger than the potential benefit of not changing (mermaid). It capitalizes on 
-<hr/>
-25 
+
+ 
 the fact that a large "pot-of-gold" can be a significant motivator for many people to make necessary changes, especially if it can be shown that either the mermaid does not really exist, that keeping the mermaid is far less important than the pot-of-gold or in some cases that actually you can bring the mermaid with you. 
 
 

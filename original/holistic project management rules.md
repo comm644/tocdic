@@ -1,5 +1,7 @@
 #tocico
 
+# holistic project management rules
+
 <b>holistic project management rules</b> -  - The rules for managing either single projects or multiple projects from a systems perspective.  The rules are categorized as either planning rules or execution rules.  The planning rules include: 1.  Achievement of delivery commitments is the primary measure for managing projects. 2.  Challenging but achievable estimates of task duration are used.  3.  Resource conflicts are resolved and the critical chain through the network is determined.  Resources 
 are monitored to identify potential critical resources. 
 4.  Buffers are inserted at strategic points. The execution rules include: 1.  Bad multitasking is eliminated. 2.  The road runner work ethic is implemented. 3.  Buffer management is used for corrective actions and causes of buffer penetration are reviewed 

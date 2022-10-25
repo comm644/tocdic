@@ -1,0 +1,16 @@
+См.: [[Карта ПЦ]].
+
+#shortcut
+
+
+
+
+<hr/>
+
+#tocico
+
+## IO map
+
+<b>IO map</b> - Abbreviation for intermediate objectives map.  
+
+

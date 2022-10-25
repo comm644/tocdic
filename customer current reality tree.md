@@ -19,8 +19,8 @@ Usage: The purposes of the customer CRT are to 1. identify the customer's core p
 
 Because the customer CRT requires detailed knowledge of the problems experienced by the 
 organization's customers, some of the customer's employees as well as marketing and sales personnel from the organization are usually closely involved in the creation of the tree.  By addressing the customer's core problem with its suppliers through the design of an unrefusable offer, the customer CRT helps create a win-win scenario for the organization and its customer. 
-<hr/>
-42 
+
+ 
 
 
 

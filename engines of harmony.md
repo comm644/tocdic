@@ -12,10 +12,9 @@
 ## engines of harmony
 
 <b>engines of harmony</b> - Processes in an organization that support the achievement of the organization's goal. These include: 
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-51_1.png"/>
+
+
 <img src="./tocico_dictionary_2nd_editio-51_2.png"/>
-51 
 1.  Each person knowing exactly how he or she contributes to the organization and knowing that the 
 contribution will be recognized.  
 2.  Each person knowing exactly how others contribute to the organization and knowing that their 

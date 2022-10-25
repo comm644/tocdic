@@ -15,9 +15,8 @@
 
 
 Illustration:  In the CRT below, entities 15, 20 and 37 are core drivers.  We may choose not to address entity 15 and we have no control over entities 20 and 37: 
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-32_1.png"/>
-32 
+
+
  
 
 

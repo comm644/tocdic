@@ -47,8 +47,8 @@ condition #3
 condition #4 
 condition #5 
 condition #6 
-<hr/>
-38 
+
+ 
  
 
 

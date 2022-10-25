@@ -21,11 +21,10 @@ Illustration 1: The following logic diagram is verbalized: If 15 Cause A then 25
  
 
 Illustration 2: Sometimes two or three causal entities are all needed to create the existence of the proposed effect.  The following logic diagram is verbalized: If 20 Cause B and 30 Cause C then 60 
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-22_1.png"/>
+
+
 <img src="./tocico_dictionary_2nd_editio-22_2.png"/>
 <img src="./tocico_dictionary_2nd_editio-22_3.png"/>
-22 
 Effect Y.  For example, If 20 My vegetable garden gets ample water, and 30 My garden gets a satisfactory amount of sunshine, then 60 My vegetables grow well. 
  
 

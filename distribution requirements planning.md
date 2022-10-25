@@ -15,8 +15,8 @@
   
 
 Syn.:[[traditional supply chain management philosophy]].
-<hr/>
-45 
+
+ 
 
 
 

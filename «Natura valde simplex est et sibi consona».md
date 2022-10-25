@@ -10,4 +10,6 @@
 
 #парадигма
 
+Синоним: [[«Natura valde simplex est et sibi consona»]].
+
 #translated

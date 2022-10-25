@@ -15,8 +15,8 @@
 
 
 Illustration:          
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-50_1.png"/>
+
+
 <img src="./tocico_dictionary_2nd_editio-50_2.png"/>
 <img src="./tocico_dictionary_2nd_editio-50_3.png"/>
 <img src="./tocico_dictionary_2nd_editio-50_4.png"/>
@@ -33,7 +33,6 @@ Illustration:
 <img src="./tocico_dictionary_2nd_editio-50_15.png"/>
 <img src="./tocico_dictionary_2nd_editio-50_16.png"/>
 <img src="./tocico_dictionary_2nd_editio-50_17.png"/>
-50 
 B  <i>Govât must â¦</i>
 
 1

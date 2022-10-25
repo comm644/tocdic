@@ -30,12 +30,13 @@ Illustration:  A stock buffer for an SKU is shown below.  The buffer status of t
 
 
 Usage:  The buffer status of a work order in process is based on the number of units, stated as a percent of the target level, that are downstream from the work order.
+
+
 Example:  If the target level for a part is 600 units and there are 150 units in finished goods and 100 units in process downstream from order 123, then order 123 has a buffer status of (150+100)/600 X 100% = 41.67%, which is generally considered to be in the yellow region.  
 4.  In critical chain, a measure of the project buffer consumed in relation to the proportion of the critical chain completed.
 
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-18_1.png"/>
-18 
+
+
 
 
 Usage:  The buffer status of a project has to be adjusted for the amount of the critical chain completed. The color associated with the buffer status is determined by the amount of the buffer penetration in relationship to the progress of the project as denoted by the amount of critical chain completed. The slopes of the green and yellow zones are determined by the user.  

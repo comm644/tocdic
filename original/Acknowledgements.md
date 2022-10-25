@@ -1,5 +1,7 @@
 #tocico
 
+# Acknowledgements
+
 <b>Acknowledgements</b> - 
 It is a humbling experience to write or edit a dictionary.  You immediately find out what you don't know and how much of what you do know is wrong.  In addition, the definitions of terms are constantly changing as we continually develop and define our body of knowledge.  We have learned to accept Dr. Goldratt's 4th pillar of TOC:  "never say I know."  From that perspective this has been a rewarding experience.
 
@@ -21,9 +23,8 @@ We (Jim Cox and Lynn Boyd) are responsible for any errors that might appear in t
  
 The Editors
 
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-3_1.png"/>
-3 
+
+
 
 
 

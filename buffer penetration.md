@@ -30,10 +30,9 @@ Illustration: If the level of finished goods for an item is 60% of the buffer ta
 3. In critical chain project management, a measure used to monitor the status of a project.  The amount of buffer consumed at any point in time expressed as a percentage of the total buffer. 
 
 
-Usage: When a task or chain of tasks is not complete and the total elapsed time since start (or release) of the project is longer than the (cumulative) estimated time(s), the expected completion time extends into, or penetrates, the associated feeder or project buffer.  The higher the buffer penetration percentage is the less remaining protection for the project.  Example: Suppose 10 of the 25 days of project buffer have been consumed.  The buffer penetration is 40%, which is in the yellow zone.  Penetration in the yellow zone causes the buffer manager to investigate the situation and, if necessary, plan what action to take if penetration reaches the red zone.  Buffer burn rate is used to judge whether the buffer penetration is serious enough to require action. 
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-16_1.png"/>
-16 
+Usage: When a task or chain of tasks is not complete and the total elapsed time since start (or release) of the project is longer than the (cumulative) estimated time(s), the expected completion time extends into, or penetrates, the associated feeder or project buffer.  The higher the buffer penetration percentage is the less remaining protection for the project.  
+
+Example: Suppose 10 of the 25 days of project buffer have been consumed.  The buffer penetration is 40%, which is in the yellow zone.  Penetration in the yellow zone causes the buffer manager to investigate the situation and, if necessary, plan what action to take if penetration reaches the red zone.  Buffer burn rate is used to judge whether the buffer penetration is serious enough to require action. 
 
 
 

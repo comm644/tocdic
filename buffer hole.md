@@ -17,9 +17,8 @@
 Usage:  Orders that create buffer holes in the green region are expected and are no cause for concern.  Orders that create buffer holes in the yellow region are somewhat expected but the buffer manager should nevertheless locate the order and let subsequent workstations know that an order that represents a yellow region hole is coming their way.  Orders that create red region holes should be expedited along their entire path in order to achieve timely completion.  Late orders are considered in the black region and are problematical.  Some firms will make them a low priority since the order is now late while other firms will keep them as a high priority in order to minimize the lateness. 
 
 Illustration: A hole in a time buffer for a work order is shown below: 
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-14_1.png"/>
-14 
+
+
  
 
 Syn.:[[hole in the buffer]].

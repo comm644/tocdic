@@ -19,15 +19,13 @@ There are two methods of constructing a future reality tree.  The original metho
 injection at the bottom of the tree and built upward to reach desirable effects.  A more recent method starts the future reality tree with an evaporating cloud, rotated 90 degrees clockwise.  Assumptions underlying each arrow of the cloud are used along with injections developed from the cloud to build upward to desirable effects. 
 
 Illustration 1:  A future reality tree constructed using traditional approach is shown below: 
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-60_1.png"/>
-60 
+
+
  
 
 Illustration 2:  A future reality tree constructed using an evaporating cloud as a foundation is shown below: 
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-61_1.png"/>
-61 
+
+
  
 
 

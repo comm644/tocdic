@@ -22,15 +22,13 @@ There are two approaches to developing a current reality tree - the traditional 
 with a list of UDEs and connects them using cause and effect logic, and the three-cloud approach, which starts with three evaporating clouds from which is developed a generic cloud that becomes the basis for the CRT. 
 
 Illustration 1:  Example of CRT developed using the traditional approach: 
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-40_1.png"/>
-40 
+
+
  
 
 Illustration 2:  Example of CRT developed using the three-cloud approach:               
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-41_1.png"/>
-41 
+
+
   
 
 

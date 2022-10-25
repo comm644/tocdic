@@ -12,8 +12,8 @@
 ## demand driven material requirements planning
 
 <b>demand driven material requirements planning</b> -  (DDMRP) - A method of planning inventories that involves five components:  
-<hr/>
-43 
+
+ 
 1.  inventory positioning 2.  grouping of parts into buffer profiles based on lead time; variability in demand and supply; whether 
 the part is made, bought or distributed; and whether significant order multiples are involved 
 3.  dynamic buffers 4.  planning rules that tie supply orders to consumption 5.  visible and collaborative execution 

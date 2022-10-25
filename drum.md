@@ -20,4 +20,4 @@ Syn.:[[bottleneck]], [[drum resource]], [[pacing resource]], [[strategic resourc
 
 
 
-See:[[staggering]], [[virtual drum.  <hr/>  46]].
+See:[[staggering]], [[virtual drum]].

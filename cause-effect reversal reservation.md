@@ -23,9 +23,6 @@ Illustration 2: The "House-on-Fire" scenario is a specific example of cause-effe
  
 
 Syn.:[[tautology]].
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-23_1.png"/>
-23 
 
 
 

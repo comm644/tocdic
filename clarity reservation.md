@@ -13,11 +13,10 @@
 
 <b>clarity reservation</b> - - The level I reservation in the categories of legitimate reservation that is used when the scrutinizer:  1. is concerned about the meaning of an individual word, the complete statement contained in an  entity, 
 or a section of the diagram, or  
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-26_1.png"/>
+
+
 <img src="./tocico_dictionary_2nd_editio-26_2.png"/>
 <img src="./tocico_dictionary_2nd_editio-26_3.png"/>
-26 
 2. does not recognize a reasonable connection between the stated cause and the stated effect. 
 
 
@@ -37,4 +36,4 @@ Illustration 3: Consider the relationships among the three entities, 100, 110, a
 
 
 
-See:[[categories of legitimate reservation]], [[long arrow]], [[scrutiny.   <hr/>  <img src="./tocico_dictionary_2nd_editio-27_1.png"/> 27]].
+See:[[categories of legitimate reservation]], [[long arrow]], [[scrutiny]].

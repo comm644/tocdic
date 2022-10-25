@@ -16,9 +16,8 @@
 
 Illustration:
 
-<hr/>
-<img src="./tocico_dictionary_2nd_editio-35_1.png"/>
-35 
+
+
 
 
 
