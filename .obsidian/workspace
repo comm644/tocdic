@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "aa3e23efa9894025",
+        "id": "cf240c0cc4a4082f",
         "type": "leaf",
-        "dimension": 65.13377926421404,
-        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "e69d5be01397b8ea",
-        "type": "leaf",
-        "dimension": 34.86622073578595,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "буфер.md",
-            "mode": "preview"
-          }
+          "state": {}
         }
       }
     ],
@@ -51,20 +36,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ббк",
-                "matchingCase": false,
+                "query": "index",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 359
+    "width": 327
   },
   "right": {
     "id": "e354f34fd7f84b96",
@@ -80,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "буфер.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,7 +82,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "буфер.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,29 +103,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "буфер.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 354,
     "collapsed": true
   },
-  "active": "e69d5be01397b8ea",
+  "active": "cf240c0cc4a4082f",
   "lastOpenFiles": [
-    "буфер.md",
-    "точка схождения.md",
-    "решение для распределения или пополнения.md",
-    "distribution or replenishment solution.md",
-    "сбалансированный завод.md",
-    "дерево текущей реальности.md",
-    "управление буфером.md",
-    "буфер ограничения.md",
-    "барабан-буфер-канат.md",
-    "барабан.md"
+    "количество заказа.md",
+    "original/production lead time (.md",
+    "обрабатываемая партия.md",
+    "бритва Оккама.md",
+    "original/Occam's razor.md",
+    "Occams razor.md",
+    "Occam/'s razor.md",
+    "целостные правила управления проектами  -holistic project management rules-.md",
+    "сырья, комиссионные.md",
+    "непосредственно ответственное лицо.md"
   ]
 }
