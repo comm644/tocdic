@@ -6,6 +6,8 @@
 
 ![](images/image131.png)
 
+#мп
+
 Синоним: [[U-shape]].
 
 #translated
