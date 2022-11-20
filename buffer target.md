@@ -49,5 +49,6 @@ Illustration:  A stock buffer for an SKU is shown below.
 
 Syn.:[[buffer max]].
  
+ 
 
 

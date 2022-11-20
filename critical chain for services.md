@@ -11,7 +11,7 @@
 
 ## critical chain for services
 
-<b>critical chain for services</b> - (CCS)  The TOC application for project management in services, particularly professional, scientific and technical services in multi-project environments.
+<b>critical chain for services</b> - (CC-S)  The TOC application for project management in services, particularly professional, scientific and technical services in multi-project environments.
 
 
 

@@ -43,4 +43,4 @@ than the critical chain was being completed.  Values of the PBCR greater than 1.
 
 
 
-See:[[buffer burn rate]], [[critical chain completed (%)]], [[project management measures]].
+See:[[buffer burn rate]], [[critical chain completed percentage]], [[project management measures]].

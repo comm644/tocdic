@@ -11,7 +11,8 @@
 
 ## replenishment lead time
 
-<b>replenishment lead time</b> - The time from order placement to restocking an item.  It can be composed of the sum of the order, prerelease, production and transportation lead times.  Replenishment lead time is calculated as:  
+<b>replenishment lead time</b> - The time from order placement to restocking an item.  
+It can be composed of the sum of the order, prerelease, production and transportation lead times.  Replenishment lead time is calculated as:  
 
  
  

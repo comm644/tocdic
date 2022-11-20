@@ -33,13 +33,9 @@ Illustration:
 <img src="./tocico_dictionary_2nd_editio-50_15.png"/>
 <img src="./tocico_dictionary_2nd_editio-50_16.png"/>
 <img src="./tocico_dictionary_2nd_editio-50_17.png"/>
-B  <i>Govât must â¦</i>
+<img src="embedded conflict.png"/>
 
-1
-D <i>Govât must â¦</i>
+ Syn. nested conflict. 
  
-1  
- 
-Improve 
 
 

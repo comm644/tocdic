@@ -7,3 +7,16 @@
 Синоним: [[CC-G]].
 
 #translated
+
+
+
+
+<hr/>
+
+#tocico
+
+## CC-G
+
+<b>CC-G</b> - Abbreviation for critical chain for goods. 
+
+
