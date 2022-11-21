@@ -19,4 +19,4 @@ Usage:  This tactic is very useful when there are major divergence points in the
 
 
 
-See:[[actively synchronized replenishment]], [[demand driven material requirements planning]], [[make-to- availability]], [[raw material buffer]], [[stock buffer]], [[work-in-process buffer]].
+See:[[actively synchronized replenishment]], [[demand driven material requirements planning]], [[make-to-availability]], [[raw material buffer]], [[stock buffer]], [[work-in-process buffer]].

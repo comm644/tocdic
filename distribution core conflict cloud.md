@@ -19,4 +19,4 @@ Buffer management is used to dynamically adjust buffer levels throughout the dis
 
 
 
-See:[[theory of constraints supply chain philosophy]].
+See:[[theory of constraints supply chain management philosophy]].

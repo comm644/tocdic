@@ -16,4 +16,4 @@
 
 
 
-See:[[distribution requirements planning]], [[material requirements]], [[planning]], [[pull management philosophy]].
+See:[[distribution requirements planning]], [[material requirements planning]], [[pull management philosophy]].

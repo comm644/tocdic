@@ -19,4 +19,4 @@ Usage: In the TOC distribution/replenishment solution the largest amounts of inv
 
 
 
-See:[[inventory-dollar-days]], [[theory of constraints supply chain management philosophy]], [[throughput- dollar-days]].
+See:[[inventory-dollar-days]], [[theory of constraints supply chain management philosophy]], [[throughput-dollar-days]].

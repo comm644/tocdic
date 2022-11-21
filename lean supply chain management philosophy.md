@@ -16,4 +16,4 @@
 
 
 
-See:[[lean manufacturing management philosophy]], [[theory of constraints manufacturing philosophy]], [[theory of constraints supply chain management philosophy]], [[traditional manufacturing management philosophy]], [[traditional supply chain management philosophy]].
+See:[[lean manufacturing management philosophy]], [[theory of constraints manufacturing management philosophy]], [[theory of constraints supply chain management philosophy]], [[traditional manufacturing management philosophy]], [[traditional supply chain management philosophy]].

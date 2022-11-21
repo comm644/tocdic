@@ -16,4 +16,4 @@
 
 
 
-See:[[traditional manufacturing philosophy]].
+See:[[traditional manufacturing management philosophy]].

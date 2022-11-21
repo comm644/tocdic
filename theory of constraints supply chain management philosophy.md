@@ -42,4 +42,4 @@ lead times
 
 
 
-See:[[distribution/replenishment solution]], [[lean manufacturing management philosophy]], [[lean supply chain management philosophy]], [[theory of constraints manufacturing philosophy]], [[traditional supply chain management philosophy]].
+See:[[distribution or replenishment solution]], [[lean manufacturing management philosophy]], [[lean supply chain management philosophy]], [[theory of constraints manufacturing management philosophy]], [[traditional supply chain management philosophy]].

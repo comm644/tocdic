@@ -18,4 +18,5 @@ Usage: The three processes of ongoing improvement - the five focusing steps, the
 
 
 
-See:[[buffer management]], [[change question sequence]], [[five focusing steps]], [[process of ongoing improvement.     Abbreviation for investment. (This was formerly used to refer to inventory.)]].
+See:[[buffer management]], [[change question sequence]], [[five focusing steps]], [[process of ongoing improvement.    
+

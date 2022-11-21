@@ -23,4 +23,4 @@ Usage: The three measures provide a clear picture of a project or a number of pr
 
 
 
-See:[[buffer burn rate]], [[critical chain completed (%)]], [[project buffer consumption rate]].
+See:[[buffer burn rate]], [[critical chain completed percentage]], [[project buffer consumption rate]].

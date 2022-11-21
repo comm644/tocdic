@@ -1,4 +1,4 @@
-См.: [[звездная окупаемость инвестиций]].
+См.: [[товары звездной окупаемости инвестиций]].
 
 #shortcut
 
@@ -15,4 +15,4 @@
 
 
 
-See:[[black hole return on investment]], [[return on investment(sku)]], [[star return on investment]].
+See:[[black hole return on investment items]], [[return on investment SKU]], [[star return on investment items]].

@@ -19,4 +19,4 @@ Usage: Some services clients are time sensitive and are not willing to wait unti
 
 
 
-See:[[critical chain.   <img src="./tocico_dictionary_2nd_editio-37_1.png"/>  <img src="./tocico_dictionary_2nd_editio-37_2.png"/>  <img src="./tocico_dictionary_2nd_editio-37_3.png"/>  <img src="./tocico_dictionary_2nd_editio-37_4.png"/>  <img src="./tocico_dictionary_2nd_editio-37_5.png"/>  <img src="./tocico_dictionary_2nd_editio-37_6.png"/>  <img src="./tocico_dictionary_2nd_editio-37_7.png"/>  <img src="./tocico_dictionary_2nd_editio-37_8.png"/>  <img src="./tocico_dictionary_2nd_editio-37_9.png"/>  <img src="./tocico_dictionary_2nd_editio-37_10.png"/>]].
+See: [[critical chain]].

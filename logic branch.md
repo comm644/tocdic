@@ -18,4 +18,4 @@ Perspective: A branch contains twigs, a tree contains branches.
 
 
 
-See:[[entities]], [[logic twig]], [[sufficiency-based logic]].
+See:[[entity]], [[logic twig]], [[sufficiency-based logic]].

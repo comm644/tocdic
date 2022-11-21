@@ -19,4 +19,4 @@ with such items as purchasing and transportation lot sizes (generally big batche
 
 
 
-See:[[lean manufacturing management philosophy]], [[lean supply chain management philosophy]], [[material requirements planning]], [[theory of constraints manufacturing philosophy]], [[theory of constraints supply chain management philosophy]], [[traditional supply chain management philosophy]].
+See:[[lean manufacturing management philosophy]], [[lean supply chain management philosophy]], [[material requirements planning]], [[theory of constraints manufacturing management philosophy]], [[theory of constraints supply chain management philosophy]], [[traditional supply chain management philosophy]].

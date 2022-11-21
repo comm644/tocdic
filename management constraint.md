@@ -18,6 +18,9 @@ Example: Management may punish engineers for not finishing their project tasks o
 
 
 
-See:[[constraint]], [[exploit]], [[subordinate.  2. Top management time available to devote to a given area]], [[decision]], [[etc. 
+See:[[constraint]], [[exploit]], [[subordinate]]. 
 
-Usage:  Management time is a constraint under the traditional management philosophy under which managers attempt to focus on everything instead of focusing on the organization's leverage points. See: leverage points]].
+2. Top management time available to devote to a given area, decision, etc. 
+
+Usage:  Management time is a constraint under the traditional management philosophy under which managers attempt to focus on everything instead of focusing on the organization's leverage points. 
+See:[[leverage point]].

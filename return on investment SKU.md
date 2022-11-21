@@ -18,4 +18,4 @@ ROISKU = (Annual T of SKU) / (TVC/unit x buffer size for SKU) x 100%
 
 
 
-See:[[black hole return on investment]], [[star return on investment]].
+See:[[black hole return on investment items]], [[star return on investment items]].

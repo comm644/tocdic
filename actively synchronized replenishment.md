@@ -1,4 +1,4 @@
-См.: [[активно синхронизированное пополнение]].
+См.: [[активно синхронизированное пополнение запасов]].
 
 #shortcut
 
@@ -19,4 +19,4 @@ Perspective: ASR is the integration of a pull distribution system with a demand 
 
 
 
-See:[[decoupled explosion]], [[demand driven material requirement planning]], [[strategic inventory positioning]].
+See:[[decoupled explosion]], [[demand driven material requirements planning]], [[strategic inventory positioning]].

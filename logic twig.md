@@ -18,4 +18,4 @@ Perspective: Generally, a logic twig is a subset or selected portion of a logic 
 
 
 
-See:[[entities]], [[logic branch]], [[sufficiency-based logic]].
+See:[[entity]], [[logic branch]], [[sufficiency-based logic]].

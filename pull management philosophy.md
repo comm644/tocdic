@@ -16,4 +16,4 @@ Both lean and theory of constraints manufacturing and distribution systems are p
 
 
 
-See:[[push management philosophy]], [[TOC manufacturing management philosophy]], [[TOC supply chain management philosophy]].
+See:[[push management philosophy]], [[theory of constraints manufacturing management philosophy]], [[theory of constraints supply chain management philosophy]].

@@ -23,4 +23,4 @@ Syn.:[[consequence conflict]], [[consequence conflict cloud]].
 
 
 
-See:[[systemic conflict]], [[dual cloud process]].
+See:[[systemic conflict]], [[dual-cloud process]].
