@@ -15,27 +15,9 @@
 
 
 Illustration:          
+![](images/image34.png)
 
-
-<img src="./tocico_dictionary_2nd_editio-50_2.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_3.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_4.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_5.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_6.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_7.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_8.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_9.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_10.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_11.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_12.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_13.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_14.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_15.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_16.png"/>
-<img src="./tocico_dictionary_2nd_editio-50_17.png"/>
-<img src="embedded conflict.png"/>
-
- Syn. nested conflict. 
+ Syn. [[nested conflict]]. 
  
 
 

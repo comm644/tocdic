@@ -27,4 +27,4 @@ core problem can be chosen subjectively.  In reality there can be more than one 
 
 
 
-See:[[assumption]], [[core conflict]], [[core conflict cloud]], [[core driver]], [[current reality tree]], [[undesirable effects]].
+See:[[assumption]], [[core conflict]], [[core conflict cloud]], [[core driver]], [[current reality tree]], [[undesirable effect]].

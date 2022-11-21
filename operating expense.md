@@ -20,4 +20,4 @@ Syn.:[[operational expense]].
 
 
 
-See:[[global measures]], [[throughput-world paradigm]], [[totally variable costs]].
+See:[[global measures]], [[throughput-world paradigm]], [[totally variable cost]].

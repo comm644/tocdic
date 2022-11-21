@@ -19,4 +19,4 @@ Usage: A transitional entity is often a root cause or core driver for the undesi
 
 
 
-See:[[core conflict cloud]], [[core driver]], [[current reality tree]], [[entity]], [[root cause]], [[three-cloud approach]], [[undesirable effects]].
+See:[[core conflict cloud]], [[core driver]], [[current reality tree]], [[entity]], [[root cause]], [[three-cloud approach]], [[undesirable effect]].

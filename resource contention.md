@@ -21,6 +21,4 @@ Usage 2:  In project management, resource contention can be highlighted during t
 Illustration 2:  In the project network shown below, tasks M16 and M10 require resource M at the same time.
 Diagram A shows the project network before elimination of resource contention and diagram B shows the same project after elimination of resource contention: 
 
-
-
-
+![](images/image55.png)

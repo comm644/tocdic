@@ -20,4 +20,4 @@ Usage: Often this term is confused with or incorrectly used interchangeably with
 
 
 
-See:[[capacity-constrained resource]], [[constraint]], [[drum resource]], [[interactive constraint]], [[wandering bottleneck]].
+See:[[capacity-constrained resource]], [[constraint]], [[drum resource]], [[interactive constraints]], [[wandering bottleneck]].

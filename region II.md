@@ -14,7 +14,7 @@
 <b>region II</b> - 
 
 
-Syn.:[[yellow zone (of the buffer)]].
+Syn.:[[yellow zone of the buffer]].
  
 
 

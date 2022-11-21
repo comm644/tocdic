@@ -19,4 +19,4 @@ In order to verbalize and evaluate an injection, it is not necessary to prove th
 
 
 
-See:[[breakthrough injection]], [[desirable effects]], [[entity]], [[future reality tree]], [[evaporating cloud]], [[flying pig injection]], [[negative branch reservation]], [[objective]], [[prerequisite]], [[requirement]], [[trimming injection]], [[undesirable effects]].
+See:[[breakthrough injection]], [[desirable effect]], [[entity]], [[future reality tree]], [[evaporating cloud]], [[flying pig injection]], [[negative branch reservation]], [[objective]], [[prerequisite]], [[requirement]], [[trimming injection]], [[predicted undesirable effect]].

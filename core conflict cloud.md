@@ -24,4 +24,4 @@ Illustration: The CCC shown for finance and measures includes a number of assump
 
 
 
-See:[[assumption]], [[evaporating cloud]], [[generic conflict cloud]], [[goal]], [[prerequisite]], [[requirement]], [[three-cloud approach]].
+See:[[assumption]], [[evaporating cloud]], [[generic cloud]], [[goal]], [[prerequisite]], [[requirement]], [[three-cloud approach]].

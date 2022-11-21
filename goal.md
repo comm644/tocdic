@@ -21,4 +21,4 @@ Example: The owners of most for-profit companies identify the goal as "to make m
 
 
 
-See:[[ever-flourishing]], [[necessary condition]].
+See:[[ever-flourishing company]], [[necessary condition]].

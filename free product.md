@@ -17,7 +17,7 @@
  
 
 
-Syn.:[[free good]].
+Syn.:[[free goods]].
  
 
 

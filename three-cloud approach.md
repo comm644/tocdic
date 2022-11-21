@@ -18,15 +18,11 @@ Usage: The three-cloud approach uses assumptions underlying each of the entity p
 
 Illustration: The base of a CRT created using the three-cloud approach is shown below: 
 
-
-
-
- 
-
+![](images/image26.png)
 
 Caution: Some critics feel that using the three cloud approach may not lead to a core problem while other feel that this criticism is overcome by the proper selection of UDEs (from diverse functions).
 
 
 
 
-See:[[core conflict cloud]], [[core driver]], [[current reality tree]], [[evaporating clouds]], [[fact of life]], [[logic diagram]], [[transitional entity]], [[undesirable effects]].
+See:[[core conflict cloud]], [[core driver]], [[current reality tree]], [[evaporating cloud]], [[fact of life]], [[logic diagram]], [[transitional entity]], [[undesirable effect]].

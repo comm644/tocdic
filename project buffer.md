@@ -28,4 +28,4 @@ Syn.:[[completion buffer]].
 
 
 
-See:[[50% task time estimates]], [[buffer]], [[critical chain]], [[feeding buffer]].
+See:[[50% task time estimate]], [[buffer]], [[critical chain]], [[feeding buffer]].

@@ -1,17 +1,6 @@
-### ASR
-
-**ASR** - аббревиатура от активно синхронизированного пополнения.
-
-Синоним: [[активно синхронизированное пополнение запасов]].
-
 #производство
-
-Синоним: [[ASR]].
-
-#translated
-
-
-
+#shortcut
+Синоним: [[АСП]].
 
 <hr/>
 
@@ -20,6 +9,6 @@
 ## ASR
 
 <b>ASR</b> - Abbreviation for actively synchronized replenishment.
- 
+See: [[actively synchronized replenishment]]
 
 

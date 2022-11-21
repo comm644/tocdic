@@ -14,7 +14,7 @@
 <b>region I</b> - 
 
 
-Syn.:[[green zone (of the buffer)]].
+Syn.:[[green zone of the buffer]].
 
 
 

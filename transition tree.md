@@ -19,18 +19,13 @@ Illustration 1 below.  Actions are indicated by square-cornered boxes and all ot
 
 Illustration 1: 
 
-
+![](images/image84.png)
   
 Usage 2: In the newer approach, the spine of the transition tree leads from the present situation though the need to take a given action, to taking that action, to the need for a second action, to taking that action, etc. until we achieve our objective, intermediate objective, injection or desirable state.  At each transition the need for the action and the working assumption of why this action is needed to move to the next state is provided.  The tree is read: if (action 1) then (appropriate state to take action 2).  If (appropriate state to take action 2) and (need plus working assumption for action 2) then action 2.  These logical steps are followed until the objective is achieved.
 
 
 Illustration 2:   
  
- 
+![](images/image62.png)
 
-
- 
-
-
-
-See:[[change sequence]], [[how to cause the change?]], [[intermediate objective]], [[obstacle]], [[prerequisite tree]], [[sufficiency-based logic]], [[thinking processes]].
+See:[[change question sequence]], [[how to cause the change]], [[intermediate objective]], [[obstacle]], [[prerequisite tree]], [[sufficiency-based logic]], [[thinking processes]].
