@@ -18,4 +18,4 @@ Usage: Drum-buffer-rope uses this concept to strategically locate a small number
 
 
 
-See:[[buffer]], [[critical chain project management]], [[distribution/replenishment solution]], [[drum-buffer-rope]], [[statistical fluctuations]], [[dependent events]].
+See:[[buffer]], [[critical chain project management]], [[distribution or replenishment solution]], [[drum-buffer-rope]], [[statistical fluctuations]], [[dependent events]].

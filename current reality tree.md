@@ -33,4 +33,4 @@ Illustration 2:  Example of CRT developed using the three-cloud approach:
 
 
 
-See:[[buy-in]], [[change question sequence]], [[core conflict]], [[core problem]], [[injection]], [[sufficiency-based logic]], [[thinking processes]], [[three-cloud approach]], [[undesirable effects]], [[what to change?]].
+See:[[buy-in]], [[change question sequence]], [[core conflict]], [[core problem]], [[injection]], [[sufficiency-based logic]], [[thinking processes]], [[three-cloud approach]], [[undesirable effects]], [[what to change]].

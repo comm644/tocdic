@@ -1,4 +1,4 @@
-См.: [[на что менять?]].
+См.: [[на что менять]].
 
 #shortcut
 
@@ -16,7 +16,7 @@
 
 Usage: Typically, the evaporating cloud, future reality tree, and negative branch reservation are the thinking processes that are used to help answer this question.  The answer to this question logically describes a desirable future state of the system. 
 
-Syn.:[[what to change to?]].
+Syn.:[[what to change to]].
 
 
 

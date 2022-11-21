@@ -20,4 +20,4 @@ Perspective: The main difference between the day-to-day conflict cloud and the c
 
 
 
-See:[[assumptions]], [[breakthrough solution]], [[day-to-day conflict cloud]], [[entity]], [[evaporating cloud]], [[generic cloud]], [[injection]], [[prerequisite]], [[requirement]], [[negative branch reservation]].
+See:[[assumption]], [[breakthrough solution]], [[day-to-day conflict cloud]], [[entity]], [[evaporating cloud]], [[generic cloud]], [[injection]], [[prerequisite]], [[requirement]], [[negative branch reservation]].

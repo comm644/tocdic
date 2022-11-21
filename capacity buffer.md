@@ -18,4 +18,4 @@ Usage 1: A capacity buffer enables project acceleration if the drum resource is 
 
 
 
-See:[[buffer]], [[critical chain project management]], [[drum]], [[drum resource]], [[make to availability]].
+See:[[buffer]], [[critical chain project management]], [[drum]], [[drum resource]], [[make-to-availability]].

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cf240c0cc4a4082f",
+        "id": "9942558e0bd16d08",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -36,11 +36,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -113,17 +113,17 @@
     "width": 354,
     "collapsed": true
   },
-  "active": "cf240c0cc4a4082f",
+  "active": "9942558e0bd16d08",
   "lastOpenFiles": [
-    "количество заказа.md",
-    "original/production lead time (.md",
-    "обрабатываемая партия.md",
-    "бритва Оккама.md",
-    "original/Occam's razor.md",
-    "Occams razor.md",
-    "Occam/'s razor.md",
-    "целостные правила управления проектами  -holistic project management rules-.md",
-    "сырья, комиссионные.md",
-    "непосредственно ответственное лицо.md"
+    "aggregation of variability.md",
+    "зачем менять?.md",
+    "на что поменять.md",
+    "на что менять.md",
+    "chronic conflict.md",
+    "чемпион.md",
+    "управление проектами критической цепи.md",
+    "синдром X-Y.md",
+    "процесс согласия плюс-плюс.md",
+    "красная кривая - зеленая кривая.md"
   ]
 }

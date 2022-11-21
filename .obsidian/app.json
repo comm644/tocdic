@@ -1,4 +1,6 @@
 {
   "spellcheck": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

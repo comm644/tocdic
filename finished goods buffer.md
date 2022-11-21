@@ -19,4 +19,4 @@ Perspective: In a traditional (make-to-stock) environment, a single unit order p
 
 
 
-See:[[actively synchronized replenishment]], [[demand driven material requirements planning]], [[make to availability]], [[raw material buffer]], [[stock buffer]], [[work-in-process buffer]].
+See:[[actively synchronized replenishment]], [[demand driven material requirements planning]], [[make-to-availability]], [[raw material buffer]], [[stock buffer]], [[work-in-process buffer]].
