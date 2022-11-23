@@ -1,4 +1,4 @@
-См.: [[Карта инъекций]].
+См.: [[карта инъекций]].
 
 #shortcut
 
@@ -17,7 +17,7 @@
 Illustration:  
 
 
-<img src="./tocico_dictionary_2nd_editio-67_2.png"/>
+![](images/image75.png)
  
 
 
