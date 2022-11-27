@@ -12,6 +12,7 @@
 ## CRS
 
 <b>CRS</b> -  - Abbreviation for current reality study. 
+Syn.:[[current reality study]]
 
 
 

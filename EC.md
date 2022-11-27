@@ -12,5 +12,6 @@
 ## EC
 
 <b>EC</b> - Abbreviation for evaporating cloud. 
+Syn.: [[evaporating cloud]]
 
 

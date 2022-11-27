@@ -12,5 +12,6 @@
 ## TP
 
 <b>TP</b> -  - Abbreviation for thinking processes. 
+Syn.: [[thinking processes]]
 
 

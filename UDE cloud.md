@@ -18,25 +18,7 @@ Usage: The UDE cloud is used to address undesirable effects that have a negative
 
 Illustration: A cloud for the undesirable effect "We have too many shortages of parts for assembly" is shown below: 
 
- 
-D Production does not 
-B Production meets our 
-introduce engineering 
-production schedules.
-changes into the 
-schedule immediately.
-A  We achieve 
-our business 
-goals.
-C Sales/Marketing meet 
-Dâ Production 
-customersâ requirements 
-introduces engineering 
-for the latest design 
-changes into the 
-(speed to market).
-schedule immediately.
- 
+![](images/image96.png)
  
 
 Syn.:[[one-UDE cloud]], [[single-UDE cloud]].

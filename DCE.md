@@ -12,6 +12,7 @@
 ## DCE
 
 <b>DCE</b> - -Abbreviation for decisive competitive edge. 
+Syn.: [[decisive competitive edge]]
 
 
 

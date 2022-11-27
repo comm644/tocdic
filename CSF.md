@@ -12,6 +12,7 @@
 ## CSF
 
 <b>CSF</b> - -Abbreviation for critical success factor. 
+Syn.:[[critical success factor]]
 
 
 

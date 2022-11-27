@@ -1,16 +1,4 @@
-### BM
-
-**BM** - аббревиатура для управления буфером.
-
-См.: [[управление буфером]], [[buffer management]].
-
-#ббк
-
-Синоним: [[BM]].
-
-#translated
-
-
+См. [[УБ]]
 
 
 <hr/>
@@ -20,5 +8,6 @@
 ## BM
 
 <b>BM</b> -  Abbreviation for buffer management.
+Syn.: [[buffer management]]
 
 

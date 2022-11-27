@@ -12,5 +12,6 @@
 ## TVC
 
 <b>TVC</b> -  Abbreviation for totally variable costs. 
+Syn.: [[totally variable cost]]
 
 

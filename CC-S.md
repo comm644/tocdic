@@ -1,9 +1,12 @@
-### CC-S
+См.: [[КЦ-У]]
 
-**CC-S** - сокращение от критической цепи для услуг.
+<hr/>
 
-См.: [[критическая цепь для услуг]].
+#tocico
 
-Синоним: [[CC-S]].
+## CC-S
 
-#translated
+<b>CC-S</b> - Abbreviation for critical chain for services.
+Syn.: [[critical chain for services]]
+
+

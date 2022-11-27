@@ -12,5 +12,6 @@
 ## UDE
 
 <b>UDE</b> - Abbreviation for undesirable effect. 
+Syn.:[[undesirable effect]]
 
 

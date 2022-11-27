@@ -18,4 +18,4 @@ In order to B show value to the buyer, D the sales person must present the produ
 
 
 
-See:[[buy-in process]], [[change analogy]], [[layers of resistance to change]].
+See:[[buy-in process]], [[change analogy]], [[layers of resistance]].

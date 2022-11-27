@@ -12,5 +12,6 @@
 ## MTA
 
 <b>MTA</b> - Abbreviation for make-to-availability.  
+Syn.: [[make-to-availability]]
 
 

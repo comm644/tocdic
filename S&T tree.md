@@ -11,6 +11,7 @@
 
 ## S&T tree
 
-<b>S&T tree</b> -  Abbreviation for strategy and tactics tree. 
+<b>S&T tree</b> -  Abbreviation for strategy and tactics tree.
+Syn.: [[strategy and tactics tree]]
 
 

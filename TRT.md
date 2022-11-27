@@ -12,5 +12,6 @@
 ## TRT
 
 <b>TRT</b> - Abbreviation for transition tree. 
+Syn.:[[transition tree]]
 
 

@@ -18,6 +18,7 @@
 ## ROI
 
 <b>ROI</b> - Abbreviation for return on investment.
+Syn.:[[return on investment]]
 
 
 

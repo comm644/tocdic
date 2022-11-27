@@ -12,5 +12,6 @@
 ## DE
 
 <b>DE</b> - Abbreviation for desirable effect. 
+Syn.: [[desirable effect]]
 
 

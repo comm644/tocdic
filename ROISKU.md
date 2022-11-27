@@ -11,6 +11,7 @@
 
 ## ROISKU
 
-<b>ROISKU</b> - Abbreviation for return on investmentSKU.   
+<b>ROISKU</b> - Abbreviation for return on investment SKU.   
+Syn.:[[return on investment SKU]]
 
 

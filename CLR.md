@@ -1,14 +1,4 @@
-### CLR
-
-**CLR** - аббревиатура для категорий законных оговорок.
-
-См.: [[ категории законных оговорок]].
-
-Синоним: [[CLR]].
-
-#translated
-
-
+См.: [[КЗО]]
 
 
 <hr/>
@@ -18,5 +8,6 @@
 ## CLR
 
 <b>CLR</b> - Abbreviation for categories of legitimate reservation.
+Syn.: [[categories of legitimate reservation]]
 
 

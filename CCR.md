@@ -1,3 +1,5 @@
+См. [[РОМ]]
+
 ### CCR
 
 **CCR** - сокращение от ресурса с ограниченной пропускной способностью.
@@ -18,5 +20,6 @@
 ## CCR
 
 <b>CCR</b> -  - Abbreviation for capacity-constrained resource. 
+Syn.: [[capacity-constrained resource]]
 
 

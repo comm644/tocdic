@@ -12,5 +12,6 @@
 ## IO
 
 <b>IO</b> - - Abbreviation for intermediate objective. 
+Syn.:[[intermediate objective]]
 
 

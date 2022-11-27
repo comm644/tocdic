@@ -12,5 +12,6 @@
 ## URO
 
 <b>URO</b> -  Abbreviation for unrefusable offer. 
+Syn.: [[unrefusable offer]]
 
 

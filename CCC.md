@@ -1,15 +1,4 @@
-### CCC
-
-**CCC -**  аббревиатура от облака основного конфликта.
-
-См.: [[облако основного конфликта]].
-
-Синоним: [[CCC]].
-
-#translated
-
-
-
+См. [[ОСК]]
 
 <hr/>
 
@@ -18,6 +7,7 @@
 ## CCC
 
 <b>CCC</b> - - Abbreviation for core conflict cloud.  
+Syn.: [[core conflict cloud]]
 
 
 

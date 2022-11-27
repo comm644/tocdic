@@ -1,4 +1,4 @@
-См.: [[БПСП]].
+См.: [[СПБП]].
 
 #shortcut
 
@@ -12,6 +12,7 @@
 ## PBCR
 
 <b>PBCR</b> - Abbreviation for project buffer consumption rate. 
+Syn.: [[project buffer consumption rate]]
 
 
 
