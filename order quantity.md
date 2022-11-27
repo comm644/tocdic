@@ -16,30 +16,8 @@
 
 Example:  Suppose the buffer target is 300 units, current on-hand inventory (buffer status) is 225 and 20 units are in-transit.  Order quantity is therefore: 
  
- 
- 
-Order quantity =
-buffer target - (current on-hand inventory + in-transit inventory) 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
- =
-300 - (225 + 20)
- =
-55 units 
+ Order quantity = buffer target - (current on-hand inventory + in-transit inventory)
+= 300 - (225 + 20)  = 55 units 
  
 
 

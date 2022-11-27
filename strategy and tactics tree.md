@@ -25,4 +25,4 @@ Example: The diagram below provides the general framework of an S&amp;T tree.  T
 
 
 
-See:[[necessary assumption]], [[parallel assumption]], [[strategy]], [[strategy and tactics node]], [[sufficiency assumption]], [[tactic]].
+See:[[necessary assumption]], [[parallel assumption]], [[strategy]], [[strategy and tactic node]], [[sufficiency assumption]], [[tactic]].

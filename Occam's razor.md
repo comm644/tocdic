@@ -15,4 +15,4 @@
 
 
 
-See:[[fundamental assumptions (of TOC)]].
+See:[[fundamental assumptions]].

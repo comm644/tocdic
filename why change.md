@@ -9,9 +9,9 @@
 
 #tocico
 
-## why change
+## why change?
 
-<b>why change</b> - - The first question in the new change question sequence.  The question focuses on determining why a change to the system is necessary.
+<b>why change?</b> - - The first question in the new change question sequence.  The question focuses on determining why a change to the system is necessary.
 
 
 

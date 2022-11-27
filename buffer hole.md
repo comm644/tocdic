@@ -1,4 +1,4 @@
-См.: [[дыра в буфере]].
+См.: [[буферная дыра]].
 
 #shortcut
 
@@ -18,7 +18,7 @@ Usage:  Orders that create buffer holes in the green region are expected and are
 
 Illustration: A hole in a time buffer for a work order is shown below: 
 
-
+![](image10.png)
  
 
 Syn.:[[hole in the buffer]].

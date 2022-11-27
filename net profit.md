@@ -19,4 +19,4 @@ Caution: In Generally Accepted Accounting Principles (GAAP) accounting changes i
 
 
 
-See:[[inventory profit]], [[operating expense]], [[throughput]], [[throughput accounting]].
+See:[[inventory profits]], [[operating expense]], [[throughput]], [[throughput accounting]].

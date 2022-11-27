@@ -18,5 +18,5 @@ Usage: The three processes of ongoing improvement - the five focusing steps, the
 
 
 
-See:[[buffer management]], [[change question sequence]], [[five focusing steps]], [[process of ongoing improvement.    
+See:[[buffer management]], [[change question sequence]], [[five focusing steps]], [[process of ongoing improvement]].    
 

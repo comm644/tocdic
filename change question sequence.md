@@ -24,4 +24,4 @@ Syn.:[[change question sequence]].
 
 
 
-See:[[how to cause the change]], [[how to sustain the change]], [[process of ongoing improvement]], [[to what to change]], [[what to change]], [[why change]].
+See:[[how to cause the change]], [[how to measure and sustain the change]], [[process of ongoing improvement]], [[to what to change]], [[what to change]], [[why change]].

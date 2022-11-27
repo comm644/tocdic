@@ -15,7 +15,6 @@
 It can be composed of the sum of the order, prerelease, production and transportation lead times.  Replenishment lead time is calculated as:  
 
  
- 
 RLT  = order lead time + prerelease lead time + production lead time + transportation lead time 
  where: 1.  order lead time is the time it takes the client to place the order;  2.  prerelease lead time is the time that the order waits to be released under a drum-buffer-rope (or 
 simplified-drum-buffer-rope) scheduling system; 
@@ -23,13 +22,8 @@ simplified-drum-buffer-rope) scheduling system;
 wait, and move times; and 
 4.  transportation lead time is the shipment time from manufacturing facility to customer location.
 
-
-
 Illustration:  Components of replenishment lead time: 
 
-
-
-
-
+![](images/image73.png)
 
 See:[[order lead time]].

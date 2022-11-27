@@ -1,4 +1,4 @@
-См.: [[ГВЧ]].
+См.: [[ГВЛ]].
 
 #shortcut
 
@@ -11,6 +11,7 @@
 
 ## IIP
 
-<b>IIP</b> -  - Abbreviation for intimately involved person.  
+<b>IIP</b> - Abbreviation for intimately involved person.  
+Syn. [[intimately involved person]]
 
 

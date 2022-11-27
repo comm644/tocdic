@@ -1,4 +1,4 @@
-См.: [[ОП]].
+См.: [[ПЛ]].
 
 #shortcut
 
@@ -11,6 +11,7 @@
 
 ## OP
 
-<b>OP</b> -  Abbreviation foroutside person.  
+<b>OP</b> -  Abbreviation for outside person.  
+Syn: [[outside person]]
 
 

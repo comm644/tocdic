@@ -15,10 +15,8 @@
 
 
 
-Syn.:[[systemic conflict cloud]].
+Syn.:[[systemic conflict]].
 
-
-<img src="./tocico_dictionary_2nd_editio-90_1.jpg"/>
 
 
 

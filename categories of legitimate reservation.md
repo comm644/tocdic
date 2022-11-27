@@ -21,4 +21,6 @@ Usage: Level I seeks clarity and understanding of the tree builder's intentions,
 
 
 
-See:[[additional cause reservation]], [[causality existence reservation]], [[cause insufficiency reservation]], [[cause-effect reversal reservation]], [[clarity reservation]], [[entity]], [[entity existence reservation]], [[logic diagram]], [[predicted effect existence reservation]], [[scrutiny]], [[tautology reservation]], [[thinking processes]].
+See:[[additional cause reservation]], [[causality existence reservation]], [[cause insufficiency reservation]], [[cause-effect reversal reservation]], [[clarity reservation]], [[entity]], [[entity existence reservation]], [[logic diagram]], [[predicted effect reservation]], [[scrutiny]], [[tautology reservation]], [[thinking processes]].
+
+*(av: updated links)*

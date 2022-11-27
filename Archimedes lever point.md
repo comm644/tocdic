@@ -16,4 +16,4 @@
 
 
 
-See:[[complexity]], [[feedback loops]], [[fundamental assumptions (of TOC)]], [[leverage point]], [[processes of ongoing improvement]].
+See:[[complexity]], [[feedback loop]], [[fundamental assumptions]], [[leverage point]], [[process of ongoing improvement]].

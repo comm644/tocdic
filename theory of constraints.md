@@ -15,4 +15,4 @@
 
 
 
-See:[[constraint]], [[goal]], [[fundamental assumptions (of TOC)]], [[holistic approach]].
+See:[[constraint]], [[goal]], [[fundamental assumptions]], [[holistic approach]].

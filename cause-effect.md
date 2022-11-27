@@ -19,15 +19,12 @@ Perspective:  In contrast to statistical correlation, causality represents a muc
 
 Illustration 1: The following logic diagram is verbalized: If 15 Cause A then 25 Effect X. For example, If 15 It rains on my yard then 25 My grass gets wet. 
  
+![](images/image58.png)
 
 Illustration 2: Sometimes two or three causal entities are all needed to create the existence of the proposed effect.  The following logic diagram is verbalized: If 20 Cause B and 30 Cause C then 60 
 
-
-<img src="./tocico_dictionary_2nd_editio-22_2.png"/>
-<img src="./tocico_dictionary_2nd_editio-22_3.png"/>
 Effect Y.  For example, If 20 My vegetable garden gets ample water, and 30 My garden gets a satisfactory amount of sunshine, then 60 My vegetables grow well. 
  
+![](images/image16.png)
 
-
-
-See:[[effect]], [[entity]], [[logic]], [[diagram]], [[logical 'and' connector]].
+See:[[effect]], [[entity]], [[logic diagram]], [[logical 'and' connector]].

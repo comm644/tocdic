@@ -15,4 +15,4 @@
 
 
 
-See:[[drum buffer rope for goods]].
+See:[[drum-buffer-rope for goods]].
